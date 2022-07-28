@@ -1,0 +1,9 @@
+Scientific Calculator and Converter:
+Create a Scientific Calculator using JSwing
+Operations :
+    +, -, *, /, ^, %
+    sin, cos, tan, log, sin-1, cos-1, tan-1
+    parenthesis checking, operand checking
+    Unit conversion (Length, Mass, Volume, etc)
+    Number System Converion (Binary, Decimal, Octal, etc)
+    Evaluate expressions (of basic and trignometric) 
